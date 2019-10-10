@@ -1,4 +1,4 @@
-public class Device {
+class Device {
     String code;
     String producer;
     String type;
